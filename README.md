@@ -21,7 +21,7 @@ git clone https://github.com/arspiess/20043792-5_AndreRicardoSpiess.git
 
 - Curso:
   ## SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET
-- Autor: 
+- Acadêmico: 
     ## André Ricardo Spiess
 - R.A. :
     ## 20043792-5
