@@ -1,6 +1,6 @@
-<!Doctype html>
-<html>
-    <?php
-        echo "Hello World!";
-    ?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<?php
+include 'pages/home.php';
+?>
 </html>
