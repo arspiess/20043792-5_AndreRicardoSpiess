@@ -1,9 +1,11 @@
-<head>
-<img src="./images/logochurros.png"/>
+<header>
+<img src="../images/logochurros.png" alt="logochurros.png" heigth="10%" width="10%"/>
 <nav>
-<a href="./pages/home.php">Início</a> |
-<a href="./pages/quemsomos.php">Quem Somos</a> |
-<a href="./pages/produtos.php">Produtos</a> |
-<a href="./pages/ondeencontrar.php">Onde Encontrar</a>
+    <ul>
+        <li><a href="historia.php">História</a></li>
+        <li><a href="quemsomos.php">Quem Somos</a></li>
+        <li><a href="produtos.php">Produtos</a></li>
+        <li><a href="contato.php">Contato</a></li>
+    </ul>
 </nav>
-</head>
+</header>

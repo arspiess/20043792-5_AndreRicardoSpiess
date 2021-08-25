@@ -1,6 +1,4 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<?php
-include 'pages/home.php';
-?>
+<script>window.location.href = 'pages/historia.php';</script>
 </html>
