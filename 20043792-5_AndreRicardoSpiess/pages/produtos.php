@@ -3,12 +3,11 @@
 <body>
     <?php
         include '.././function/topo.php';
-        include '.././function/article.php';
     ?>
     <main>
         <?php
-        include '../dados/quemsomos.php';
-        showArticle($quemsomos);
+        include '.././dados/produtos.php';
+        include 'listprodutos.php';
         ?>
     </main>
 </body>
